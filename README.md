@@ -1,2 +1,2 @@
-# Brackets-animations-deactivator
-Brackets extention for disable animations
+# Animations deactivator
+Disable animations for better perfomance
